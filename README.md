@@ -2,6 +2,12 @@
 
 **Robotics & AI researcher · Dhaka, Bangladesh**
 
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&size=18&duration=3000&pause=1000&color=2986CC&center=true&vCenter=true&width=580&lines=Robotics+%26+AI+Researcher;Multimodal+AI+%7C+Trustworthy+Decision-Making" alt="Animated introduction: Robotics and AI researcher; multimodal AI and trustworthy decision-making" /></a>
+</p>
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Animated illustration of a person coding" />
+
 I am a final-year Robotics and Mechatronics Engineering student at the University of Dhaka, a Research Assistant at Cortex AI Lab, and a Research Intern at the Data and Design Lab (CARS). I work on multimodal and agentic AI, trustworthy decision-making, and machine learning for healthcare, agriculture, and critical infrastructure.
 
 [Website](https://syed-nazmus-sakib.github.io/) · [CV](https://syed-nazmus-sakib.github.io/cv/) · [Google Scholar](https://scholar.google.com/citations?user=4j76UvsAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/nazmus-sakib-syed) · [Kaggle](https://www.kaggle.com/syednazmussakib)
@@ -29,3 +35,8 @@ I am a final-year Robotics and Mechatronics Engineering student at the Universit
 - [ROS2-Course-Work](https://github.com/syed-nazmus-sakib/ROS2-Course-Work) — ROS 2 robot descriptions, visualization, and controls.
 
 More publications, experience, and projects are on my [website](https://syed-nazmus-sakib.github.io/).
+
+<p align="center">
+  <a href="https://gitviewsmap.onrender.com/syed-nazmus-sakib"><img src="https://gitviewsmap.onrender.com/badge/syed-nazmus-sakib.svg" alt="Open visitor map" /></a><br />
+  <sub>Visitor locations appear when someone opens the map; profile views alone do not provide location data.</sub>
+</p>
